@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshemcr2
 - 👀 I’m interested in ... Web development , frontend and backend
-- 🌱 I’m currently learning ... HTML5, CCS3, JS, PYTHON, PHP, MYSQL   
+- 🌱 I’m currently learning ... HTML5, CSS3, JS, PYTHON, PHP, MYSQL   
 - 📫 How to reach me ... jamc221996@gmail.com
 
 <!---
