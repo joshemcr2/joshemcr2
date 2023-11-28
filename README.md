@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JOG Engineering**
 
-- 🌱 I’m currently learning **React, Vue, Angular, Flutter**
+- 🌱 I’m currently learning **Vue, Angular, Flutter**
 
 - 📫 How to reach me **jamc221996@gmail.com**
 
